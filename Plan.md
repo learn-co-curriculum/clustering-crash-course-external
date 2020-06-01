@@ -1,10 +1,21 @@
 # Plan
 
+## Slides Progress
+
+* [ ] Introductions
+* [ ] Data Science Landscape
+* [ ] Python
+* [ ] Clustering
+* [ ] Dangers 
+* [ ] Plenary 
+
+## Timeline 
+
 Thursday
 
-* [ ] Sketch Mental Models for Core Learning Objectives
-* [ ] Create Introduction Slides 
-* [ ] Create Google Doc  
+* [X] Sketch Mental Models for Core Learning Objectives
+* [X] Create Introduction Slides 
+* [X] Create Google Doc  
 * [ ] Create Jupyter Notebook and Data 
 * [ ] Run Initial Code  
 
@@ -15,6 +26,6 @@ Friday
 
 Monday 
 
-* [ ] Create Check for Understanding Slides
+* [X] Create Check for Understanding Slides
 * [ ] Clean README
 

@@ -20,54 +20,51 @@ Students will work along with the instructor to discover customer segments withi
 This course will cover:
 
 * [ ] Basic theory behind unsupervised machine learning
-* [ ] Basics of Python
 * [ ] How to use foundational algorithms in Python
+* [ ] Basics of Python for clustering via an applied example 
 * [ ] Common pitfalls when carrying out clustering analyses
 
 ## Learning Objectives 
 
 After taking this course, you will be able to: 
 
-* [ ] Explain the difference between supervised and unsupervised machine learning
-* [ ] Identify business cases when you would want to use unsupervised machine learning 
-* [ ] Explain why the idea of similarity is at the core of clustering analyses
+* [ ] Explain the differences between regression and classification tasks in machine learning
+* [ ] Explain the differences between supervised and unsupervised machine learning
+* [ ] Given an example of regression problem in machine learning
+* [ ] Given an example of classification problem in machine learning
+* [ ] Given an example of clustering problem in machine learning
+
+* [ ] Identify the two most common types of clustering algorithms used in data science
+* [ ] Explain how the idea of similarity is at the core of all clustering algorithms 
 * [ ] Summerise what the goals of running a k-means clustering analysis are 
 * [ ] Summerise what the goals of running a hierarchical agglomorative clustering analysis are 
 * [ ] Interpret the output of denrogram  
-* [ ] Explain how the k-means algorithm works  
+
 * [ ] Identify what data is required to run a clustering analysis
 * [ ] Identify what Python libraries are needed to run a clustering analysis
 * [ ] Identify what different arguments in ski-kit learn can be used to run analysis?
-* [ ] Explain what can go wrong when using unsupervised machine learning
+
+* [ ] Explain why the results of a k-means clustering algorithm can be interpreted as being "True"
+* [ ] Explain why it is bad practice to interpret vertical similarities in a dendrogram 
 
 ## Course Outline 
 
-I. Introductions
-
-- Introductions 
+- Getting Comfy with Online Lectures 
     - Welcome and Instructor Introduction
     - Introduction to Zoom Learning
-- Supervised vs Unsupervised Machine Learning and Data Science 
-- Unsupervised Machine Learning   
-    - Case Study 
-    - Theory of Unsupervised ML 
+- The Data Science Landcape 
+    - Supervised Machine Learning
+    - How much? Questions of regression 
+    - Which one? Questions of classification
+    - Unsupervised Machine Learning  
 - Break I 
-- K-Means Clustering 
-- Hierarchical Agglomorative Clustering
+- Clustring Algorithms (The Good Stuff)
+    - K-Means Clustering 
+    - Hierarchical Agglomorative Clustering
 - Break II 
-- Case Study: Mall Data
-    - Mall Segmentation
-    - Data Visualization
-    - Why It Matters
+- Enough Python to be Dangerous 
 - Dangers of Unsupervised Machine Learning 
     - Getting Wrong K
     - Cutting Tree Incorrectly 
     - Curse of Dimensionality 
-
-## Attendee Persona (delete eventually) 
-
-The three hour course is designed for individuals with little to no experience in data science looking to learn the basic concepts behind an unsupervised machine learning technique called clustering.
-We assume that participants work in a business or not-for-profit setting and are able to talk about what value they bring to their respective organizations. 
-We do not assume that the majority of participants code regularly as a part of their work, but are very interested in eventually acquiring that skill set. 
-Participants of this crash course want to acquire foundational knowledge about unsupervised machine learning, specifically the pros and cons of clustering analysis. 
 
