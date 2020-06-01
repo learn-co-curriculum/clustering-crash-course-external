@@ -36,8 +36,8 @@ After taking this course, you will be able to:
 
 * [ ] Identify the two most common types of clustering algorithms used in data science
 * [ ] Explain how the idea of similarity is at the core of all clustering algorithms 
-* [ ] Summerise what the goals of running a k-means clustering analysis are 
-* [ ] Summerise what the goals of running a hierarchical agglomorative clustering analysis are 
+* [ ] Summarize what the goals of running a k-means clustering analysis are 
+* [ ] Summarize what the goals of running a hierarchical agglomorative clustering analysis are 
 * [ ] Interpret the output of denrogram  
 
 * [ ] Identify what data is required to run a clustering analysis
@@ -52,13 +52,13 @@ After taking this course, you will be able to:
 - Getting Comfy with Online Lectures 
     - Welcome and Instructor Introduction
     - Introduction to Zoom Learning
-- The Data Science Landcape 
+- The Data Science Landscape 
     - Supervised Machine Learning
     - How much? Questions of regression 
     - Which one? Questions of classification
     - Unsupervised Machine Learning  
 - Break I 
-- Clustring Algorithms (The Good Stuff)
+- Clustering Algorithms (The Good Stuff)
     - K-Means Clustering 
     - Hierarchical Agglomorative Clustering
 - Break II 
