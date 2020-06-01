@@ -5,7 +5,8 @@ This repository contains learning materials for [Flatiron School's]() free [Cras
 ## Resources 
 
 * [Zoom Room]() 
-* [Google Doc]() 
+* [Google Doc](https://docs.google.com/document/d/1z22l5OJU9P3RD6nEgTSgYZwxv9fp0qnN-EjtuL3d2TQ/edit?usp=sharing) 
+* [Slides](https://docs.google.com/presentation/d/1HYunVhAGY-M3omCdB8glOiyOBlEIMdQ_WjTjC2484ag/edit?usp=sharing)
 
 ## Course Description 
 
