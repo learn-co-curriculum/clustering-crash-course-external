@@ -90,5 +90,5 @@ After taking this course, you will be able to:
 
 * [Introduction to Statistical Learning](https://scikit-learn.org/stable/modules/clustering.html)
 * [Sci Kit Learn Clustering Documentation](https://scikit-learn.org/stable/modules/clustering.html)
-* [Flatiron Curricula]()
+* [Flatiron Curricula](https://github.com/learn-co-curriculum/dsc-market-segmentation-clustering)
 
