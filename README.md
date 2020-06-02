@@ -3,9 +3,17 @@
 This repository contains learning materials for [Flatiron School's]() free [Crash Course on Detecting Patterns with Machine Learning](https://www.eventbrite.com/e/free-crash-course-detecting-patterns-with-machine-learning-tickets-105010152192).
 Material for this course was created by [David John Baker](www.github.com/davidjohnbaker1).)
 
+## To Do 
+
+* [ ] Review Notebook in Time Scheme
+* [ ] Read Learn-Co Curricula 
+* [ ] Swap Out Clustering with Learn-Co if Better 
+* [ ] Slow Walk Thru of Event
+* [ ] Make Cocalc
+
 ## Resources 
 
-* [Zoom Room]() 
+* [Zoom Room](https://wework.zoom.com/j/98765690844?pwd=YUxKMUpFZEdubUhYcTlTNE0wTWNIdz09) 
 * [Google Doc](https://docs.google.com/document/d/1z22l5OJU9P3RD6nEgTSgYZwxv9fp0qnN-EjtuL3d2TQ/edit?usp=sharing) 
 * [Slides](https://docs.google.com/presentation/d/1HYunVhAGY-M3omCdB8glOiyOBlEIMdQ_WjTjC2484ag/edit?usp=sharing)
 
