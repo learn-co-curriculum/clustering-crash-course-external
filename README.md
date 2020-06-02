@@ -50,22 +50,37 @@ After taking this course, you will be able to:
 
 ## Course Outline 
 
-- Getting Comfy with Online Lectures 
+- Getting Comfy with Online Lectures (5 buffer + 10 minutes)
     - Welcome and Instructor Introduction
     - Introduction to Zoom Learning
 - The Data Science Landscape 
-    - Supervised Machine Learning
+    - One Definition of Data Science (5 minutes) 
+    - Supervised Machine Learning (5 minute lecture, 5 min exercise) )  
     - How much? Questions of regression 
     - Which one? Questions of classification
-    - Unsupervised Machine Learning  
-- Break I 
+    - Unsupervised Machine Learning (15 minutes)
+- Break I (10 minutes)  
 - Clustering Algorithms (The Good Stuff)
-    - K-Means Clustering 
-    - Hierarchical Agglomorative Clustering
-- Break II 
-- Enough Python to be Dangerous 
-- Dangers of Unsupervised Machine Learning 
+    - Goals Of Clustering Revisited (5 minutes)
+    - Similarity, Dimensions, Distance, Scaling (10 minutes)
+    - K-Means Clustering  (10 minutes)
+    - Hierarchical Agglomorative Clustering (10 minutes)
+- Break II (10 minutes)  
+- Enough Python to be Dangerous (25 minutes) 
+    - Jupyter Notebook (5 minuts)  
+    - Implementing K-Means with Sci-Kit Learn (10 minutes)
+    - Implementing Hierarchical Clustering with Sci-Kit Learn (10 minutes)
+- Dangers of Unsupervised Machine Learning  (10 minutes) 
     - Getting Wrong K
     - Cutting Tree Incorrectly 
     - Curse of Dimensionality 
+- Review and Question (10 minutes)
+    - All Review Slides
+    - Questions s
+
+## Resources
+
+* [Introduction to Statistical Learning](https://scikit-learn.org/stable/modules/clustering.html)
+* [Sci Kit Learn Clustering Documentation](https://scikit-learn.org/stable/modules/clustering.html)
+* [Flatiron Curricula]()
 
