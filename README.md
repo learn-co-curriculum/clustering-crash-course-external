@@ -1,7 +1,7 @@
 # Clustering Crash Course  
 
 This repository contains learning materials for [Flatiron School's]() free [Crash Course on Detecting Patterns with Machine Learning](https://www.eventbrite.com/e/free-crash-course-detecting-patterns-with-machine-learning-tickets-105010152192).
-Material for this course was created by [David John Baker](www.github.com/davidjohnbaker1).)
+Material for this course was created by [David John Baker](www.github.com/davidjohnbaker1).
 
 ## To Do 
 
